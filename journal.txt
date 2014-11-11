@@ -1,7 +1,7 @@
-Author:
+Author: Kirsty Mcc
 Title: An intro to bioinformatics
 
 Abstract:
 Introduction:
-Data:
+Data: I still need to collect data. So i can't write anything here yet
 Conclusion:
