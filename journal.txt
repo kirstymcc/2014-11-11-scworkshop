@@ -1,7 +1,7 @@
-Author: Kirsty Mcc
-Title: An intro to bioinformatics
+Author: Kirsty Mcc, Sue Smith
+Title: An good paper about bioinformatics
 
-Abstract:
+Abstract: I have never written a good abstract
 Introduction:
 Data: I still need to collect data. So i can't write anything here yet
-Conclusion:
+Conclusion: Something good
