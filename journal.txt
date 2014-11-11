@@ -1,7 +1,8 @@
-Author: Kirsty Mcc, Sue Smith
-Title: An good paper about bioinformatics
+Author: Kirsty Mcc, Sue Smith, John Smith
+Title: About the creatures and their DNA
 
 Abstract: I have never written a good abstract
+
 Introduction:
 Data: I still need to collect data. So i can't write anything here yet
 Conclusion: Something good
