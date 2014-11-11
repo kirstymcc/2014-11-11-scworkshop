@@ -1,7 +1,7 @@
-Author: Kirsty Mcc
-Title: An intro to bioinformatics
+Author: John Smith, Kirsty Mcc
+Title: Pick a catchy title
 
-Abstract:
+Abstract: Need to do
 Introduction:
 Data: I still need to collect data. So i can't write anything here yet
 Conclusion:
