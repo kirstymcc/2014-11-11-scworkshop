@@ -1,5 +1,5 @@
 Author:
-Title:
+Title: An intro to bioinformatics
 
 Abstract:
 Introduction:
